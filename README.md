@@ -1,2 +1,3 @@
 # MultiplayerPong
- Pong over network.
+
+Pong with Networking.
